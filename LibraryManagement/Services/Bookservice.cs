@@ -34,10 +34,14 @@ public class BooksService
 
 public static void UpdateBook(int id,string Title)
     {
-        foreach (Books b in books )
+      
 
+        foreach (Books b in books )
         {
-            if 
+            if (id == b.bookId)
+            {
+                b.Title= Title;
+            }
             
         }
     }
