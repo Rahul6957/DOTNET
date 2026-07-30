@@ -29,5 +29,25 @@ public static class EmployeeService
             Department = "Finance",
             Salary = 50000
         }
+    
     };
+
+//Get API
+public static async Task<List<EmployeeManagement>>GetEmployees()
+    {
+       await Task.Delay(500);
+
+       return employee;
+        
+    }
+
+
+//POST API
+
+public static async Task AddEmployee(e)
+
+
+
+
+
 }
