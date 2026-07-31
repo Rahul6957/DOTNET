@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HP0rqTBzyu4=",
+  "dgSpecHash": "3IGYAkv4+qc=",
   "success": true,
-  "projectFilePath": "D:\\DOTNET\\WebSolution\\MinimalAPI\\MinimalAPI.csproj",
+  "projectFilePath": "D:\\DOTNET\\WebSolution\\MinimalApi\\MinimalApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rahul\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
     "C:\\Users\\rahul\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
@@ -12,9 +12,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
-      "projectPath": "D:\\DOTNET\\WebSolution\\MinimalAPI\\MinimalAPI.csproj",
+      "projectPath": "D:\\DOTNET\\WebSolution\\MinimalApi\\MinimalApi.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\DOTNET\\WebSolution\\MinimalAPI\\MinimalAPI.csproj",
+      "filePath": "D:\\DOTNET\\WebSolution\\MinimalApi\\MinimalApi.csproj",
       "libraryId": "Microsoft.OpenApi",
       "targetGraphs": [
         "net10.0"

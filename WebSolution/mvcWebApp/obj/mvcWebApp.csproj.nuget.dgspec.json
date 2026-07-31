@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET\\WebSolution\\mvcWebApp\\mvcWebApp.csproj": {}
+    "D:\\DOTNET\\WebSolution\\MvcWebApp\\MvcWebApp.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET\\WebSolution\\mvcWebApp\\mvcWebApp.csproj": {
+    "D:\\DOTNET\\WebSolution\\MvcWebApp\\MvcWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\WebSolution\\mvcWebApp\\mvcWebApp.csproj",
-        "projectName": "mvcWebApp",
-        "projectPath": "D:\\DOTNET\\WebSolution\\mvcWebApp\\mvcWebApp.csproj",
+        "projectUniqueName": "D:\\DOTNET\\WebSolution\\MvcWebApp\\MvcWebApp.csproj",
+        "projectName": "MvcWebApp",
+        "projectPath": "D:\\DOTNET\\WebSolution\\MvcWebApp\\MvcWebApp.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\WebSolution\\mvcWebApp\\obj\\",
+        "outputPath": "D:\\DOTNET\\WebSolution\\MvcWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"

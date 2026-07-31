@@ -44,10 +44,29 @@ public static async Task<List<EmployeeManagement>>GetEmployees()
 
 //POST API
 
-public static async Task AddEmployee(e)
+public static async Task AddEmployee(EmployeeManagement employees)
+    {
+        await Task.Delay(500);
+    employee. Add(employees);
+    }
 
 
 
+//update 
 
+public static async Task<bool> UpdateEmployee(EmployeeManagement employees)
+    {
+        await Task.Delay(500);
+EmployeeManagement? emp =EmployeeManagement.FirstOrDefault(e=> e.id == employees.Id );
+ if (emp == null)
+            return false;
+
+    emp.Name =employees.Name;
+    emp.Department= employees.Department;
+    emp.Salary=employees.Salary;
+
+    return true;
+
+    }
 
 }

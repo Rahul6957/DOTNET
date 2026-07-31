@@ -8,3 +8,4 @@ public class EmployeeManagement
     public decimal Salary {get;set;}
 
 }
+

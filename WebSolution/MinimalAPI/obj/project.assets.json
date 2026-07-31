@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DOTNET\\WebSolution\\MinimalAPI\\MinimalAPI.csproj",
-      "projectName": "MinimalAPI",
-      "projectPath": "D:\\DOTNET\\WebSolution\\MinimalAPI\\MinimalAPI.csproj",
+      "projectUniqueName": "D:\\DOTNET\\WebSolution\\MinimalApi\\MinimalApi.csproj",
+      "projectName": "MinimalApi",
+      "projectPath": "D:\\DOTNET\\WebSolution\\MinimalApi\\MinimalApi.csproj",
       "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-      "outputPath": "D:\\DOTNET\\WebSolution\\MinimalAPI\\obj\\",
+      "outputPath": "D:\\DOTNET\\WebSolution\\MinimalApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"
