@@ -1,0 +1,25 @@
+@using  EcommercePortal.Models;
+
+<!-- Razor Page  -->
+<!-- Razor Syntax --->
+<h1>Customers List</h1>
+<hr/>
+@{
+    //This is CS Code
+    int count=67;
+    count=count+34;
+    <p>  Result= @count</p>
+    List<Customer> customers=new List<Customer>();
+    customers.Add(new Customer{ FirstName="Sumit", LastName="Bhor"});
+    customers.Add(new Customer{ FirstName="Sahil", LastName="Bhor"});
+    customers.Add(new Customer{ FirstName="Sumit", LastName="Bhor"});
+    customers.Add(new Customer{ FirstName="Sumit", LastName="Bhor"});
+    customers.Add(new Customer{ FirstName="Sumit", LastName="Bhor"});
+    customers.Add(new Customer{ FirstName="Sumit", LastName="Bhor"});
+
+    <ol>
+         @foreach( Customer cst in customers){
+            <li> @cst.FirstName   @cst.LastName</li>
+    }
+    </ol>
+}
