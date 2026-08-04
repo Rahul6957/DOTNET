@@ -1,6 +1,9 @@
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 
-namespace EcommercePortal.Controller;
+
+namespace MVCProject.Controllers;
+
 public class AuthController : Controller
 {
     //its a action Methods;
@@ -12,7 +15,7 @@ public class AuthController : Controller
     }
 
 
-public IActionResult Register()
+    public IActionResult Register()
     {
         return View();
     }
@@ -21,7 +24,7 @@ public IActionResult Register()
     public IActionResult changePassword()
     {
         return View();
-        
+
     }
 
 }

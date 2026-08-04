@@ -1,13 +1,13 @@
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-
-namespace EcommercePortal.Controller;
-
+using MVCProject.Models;
 
 
-public class CustomersController : Controller
+namespace MVCProject.Controllers;
+
+
+public class CustomersController :  Controller
 {
-    //action methods:
-
     public IActionResult Index()
     {
         return View();
