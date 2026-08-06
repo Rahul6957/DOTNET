@@ -8,9 +8,13 @@ public class Student{
     public string school{get;set;}
     public int std{get;set;}
 
-
-
-
-
+public Student(int id,string name,string school,int std)
+    {
+        this.id=id;
+        this.name=name;
+        this.school=school;
+        this.std=std;
+        
+    }
 
 }
