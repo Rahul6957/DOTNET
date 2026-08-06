@@ -1,0 +1,20 @@
+@using Emp;
+
+@model List<Emp.Employee>
+
+@{ ViewData[index:"Title"]="Rahul";}
+
+
+<h3>Product list </h3>
+<table border="1" cellpadding="8">
+    <tr>
+        <th>Id</th> <th>Name</th> <th>salary</th>
+    </tr>
+@foreach(var v1 in Model)
+{
+    <tr>
+            <td>@v1.id</td>
+            <td>@v1.name</td>
+            <td>@v1.salary</td> 
+    </tr>
+}
