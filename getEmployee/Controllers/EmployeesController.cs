@@ -1,6 +1,5 @@
-using Emp;
+using  Emp;
 using Microsoft.AspNetCore.Mvc;
-
 namespace empController;
 
 public class EmployeesController:Controller
@@ -13,6 +12,9 @@ List<Employee> emp1=new List<Employee>
     new(3,"kunal",500000)
 };
     
+
+
+//Action method
     public IActionResult GetEmployees()
     {
         return View(emp1);
