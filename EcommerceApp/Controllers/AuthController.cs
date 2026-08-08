@@ -9,7 +9,7 @@ public class AuthController : Controller
     //action methods:
 
 
-    [HttpGet]
+    [HttpGet] //get login page it show login page
     public IActionResult Login()
     {
         Credential credential = new Credential();
@@ -19,7 +19,7 @@ public class AuthController : Controller
         return View(credential);
     }
 
-    [HttpPost]
+    [HttpPost]  //login bution click kel ki to taklel password check
     public IActionResult Login(Credential credential)
     {
         if(credential.UserName=="admin" && credential.Password=="transflower")
@@ -34,7 +34,7 @@ public class AuthController : Controller
     }
 
 
-    [HttpGet]
+    [HttpGet] // register page aantoy 
     public IActionResult Register()
     {
 
@@ -47,7 +47,7 @@ public class AuthController : Controller
         return   View(customer);
     }
 
-    [HttpPost]
+    [HttpPost] // e
     public IActionResult Register(Customer customer)
     {
         //Logic to register a new user
