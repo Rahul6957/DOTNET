@@ -1,0 +1,31 @@
+@using System.Diagnostics.Eventing.Reader
+@{
+    string name="Rahul";
+}
+@{int Mark=45;}
+@{//80+ → Grade A
+//60–79 → Grade B
+//40–59 → Grade C
+//<40 → Fail
+}
+
+<p>my Name is @name</p>
+
+@if (Mark>=80){
+<p>Grade A</p>
+}
+
+
+else if(Mark>=60 && Mark<=79){
+    <p>Grade B</p>
+
+}
+else if(Mark>=40 && Mark<=59){
+    <p>Grade c</p>
+}
+else{
+    <p>Fail</p>
+}
+
+
+
