@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DOTNET\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+      "projectUniqueName": "D:\\DOTNET\\Labs\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
       "projectName": "ProductCatalogAPI",
-      "projectPath": "D:\\DOTNET\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+      "projectPath": "D:\\DOTNET\\Labs\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
       "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-      "outputPath": "D:\\DOTNET\\ProductCatalogAPI\\obj\\",
+      "outputPath": "D:\\DOTNET\\Labs\\ProductCatalogAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"

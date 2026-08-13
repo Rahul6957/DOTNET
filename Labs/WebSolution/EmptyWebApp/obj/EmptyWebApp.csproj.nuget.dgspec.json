@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET\\WebSolution\\EmptyWebApp\\EmptyWebApp.csproj": {}
+    "D:\\DOTNET\\Labs\\WebSolution\\EmptyWebApp\\EmptyWebApp.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET\\WebSolution\\EmptyWebApp\\EmptyWebApp.csproj": {
+    "D:\\DOTNET\\Labs\\WebSolution\\EmptyWebApp\\EmptyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\WebSolution\\EmptyWebApp\\EmptyWebApp.csproj",
+        "projectUniqueName": "D:\\DOTNET\\Labs\\WebSolution\\EmptyWebApp\\EmptyWebApp.csproj",
         "projectName": "EmptyWebApp",
-        "projectPath": "D:\\DOTNET\\WebSolution\\EmptyWebApp\\EmptyWebApp.csproj",
+        "projectPath": "D:\\DOTNET\\Labs\\WebSolution\\EmptyWebApp\\EmptyWebApp.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\WebSolution\\EmptyWebApp\\obj\\",
+        "outputPath": "D:\\DOTNET\\Labs\\WebSolution\\EmptyWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"

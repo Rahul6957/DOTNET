@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET\\AsyncAPI\\AsyncAPI.csproj": {}
+    "D:\\DOTNET\\Labs\\AsyncAPI\\AsyncAPI.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET\\AsyncAPI\\AsyncAPI.csproj": {
+    "D:\\DOTNET\\Labs\\AsyncAPI\\AsyncAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\AsyncAPI\\AsyncAPI.csproj",
+        "projectUniqueName": "D:\\DOTNET\\Labs\\AsyncAPI\\AsyncAPI.csproj",
         "projectName": "AsyncAPI",
-        "projectPath": "D:\\DOTNET\\AsyncAPI\\AsyncAPI.csproj",
+        "projectPath": "D:\\DOTNET\\Labs\\AsyncAPI\\AsyncAPI.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\AsyncAPI\\obj\\",
+        "outputPath": "D:\\DOTNET\\Labs\\AsyncAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"

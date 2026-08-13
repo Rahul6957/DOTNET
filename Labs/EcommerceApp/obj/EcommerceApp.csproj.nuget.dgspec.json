@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET\\EcommerceApp\\EcommerceApp.csproj": {}
+    "D:\\DOTNET\\Labs\\EcommerceApp\\EcommerceApp.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET\\EcommerceApp\\EcommerceApp.csproj": {
+    "D:\\DOTNET\\Labs\\EcommerceApp\\EcommerceApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\EcommerceApp\\EcommerceApp.csproj",
+        "projectUniqueName": "D:\\DOTNET\\Labs\\EcommerceApp\\EcommerceApp.csproj",
         "projectName": "EcommerceApp",
-        "projectPath": "D:\\DOTNET\\EcommerceApp\\EcommerceApp.csproj",
+        "projectPath": "D:\\DOTNET\\Labs\\EcommerceApp\\EcommerceApp.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\EcommerceApp\\obj\\",
+        "outputPath": "D:\\DOTNET\\Labs\\EcommerceApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"

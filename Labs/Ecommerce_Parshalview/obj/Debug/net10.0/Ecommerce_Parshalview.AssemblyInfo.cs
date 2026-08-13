@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecommerce_Parshalview")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80a68289b938db62879e2e4d587437baf4cb176a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5277799733de42328ae6b84d9f0702162e9c2e3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecommerce_Parshalview")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecommerce_Parshalview")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

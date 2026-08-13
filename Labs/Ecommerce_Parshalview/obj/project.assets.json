@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DOTNET\\Ecommerce_Parshalview\\Ecommerce_Parshalview.csproj",
+      "projectUniqueName": "D:\\DOTNET\\Labs\\Ecommerce_Parshalview\\Ecommerce_Parshalview.csproj",
       "projectName": "Ecommerce_Parshalview",
-      "projectPath": "D:\\DOTNET\\Ecommerce_Parshalview\\Ecommerce_Parshalview.csproj",
+      "projectPath": "D:\\DOTNET\\Labs\\Ecommerce_Parshalview\\Ecommerce_Parshalview.csproj",
       "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-      "outputPath": "D:\\DOTNET\\Ecommerce_Parshalview\\obj\\",
+      "outputPath": "D:\\DOTNET\\Labs\\Ecommerce_Parshalview\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"

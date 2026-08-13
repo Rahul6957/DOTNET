@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET\\partial_view\\partial_view.csproj": {}
+    "D:\\DOTNET\\Labs\\partial_view\\partial_view.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET\\partial_view\\partial_view.csproj": {
+    "D:\\DOTNET\\Labs\\partial_view\\partial_view.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\partial_view\\partial_view.csproj",
+        "projectUniqueName": "D:\\DOTNET\\Labs\\partial_view\\partial_view.csproj",
         "projectName": "partial_view",
-        "projectPath": "D:\\DOTNET\\partial_view\\partial_view.csproj",
+        "projectPath": "D:\\DOTNET\\Labs\\partial_view\\partial_view.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\partial_view\\obj\\",
+        "outputPath": "D:\\DOTNET\\Labs\\partial_view\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"

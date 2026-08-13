@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rezer_Pages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae96b62a37a4d5f376aa18369171583e191adc84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5277799733de42328ae6b84d9f0702162e9c2e3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("rezer_Pages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rezer_Pages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

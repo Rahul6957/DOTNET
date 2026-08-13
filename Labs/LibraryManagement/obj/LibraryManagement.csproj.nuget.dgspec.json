@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET\\LibraryManagement\\LibraryManagement.csproj": {}
+    "D:\\DOTNET\\Labs\\LibraryManagement\\LibraryManagement.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET\\LibraryManagement\\LibraryManagement.csproj": {
+    "D:\\DOTNET\\Labs\\LibraryManagement\\LibraryManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\LibraryManagement\\LibraryManagement.csproj",
+        "projectUniqueName": "D:\\DOTNET\\Labs\\LibraryManagement\\LibraryManagement.csproj",
         "projectName": "LibraryManagement",
-        "projectPath": "D:\\DOTNET\\LibraryManagement\\LibraryManagement.csproj",
+        "projectPath": "D:\\DOTNET\\Labs\\LibraryManagement\\LibraryManagement.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\LibraryManagement\\obj\\",
+        "outputPath": "D:\\DOTNET\\Labs\\LibraryManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"

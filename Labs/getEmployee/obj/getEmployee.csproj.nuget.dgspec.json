@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET\\getEmployee\\getEmployee.csproj": {}
+    "D:\\DOTNET\\Labs\\getEmployee\\getEmployee.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET\\getEmployee\\getEmployee.csproj": {
+    "D:\\DOTNET\\Labs\\getEmployee\\getEmployee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\getEmployee\\getEmployee.csproj",
+        "projectUniqueName": "D:\\DOTNET\\Labs\\getEmployee\\getEmployee.csproj",
         "projectName": "getEmployee",
-        "projectPath": "D:\\DOTNET\\getEmployee\\getEmployee.csproj",
+        "projectPath": "D:\\DOTNET\\Labs\\getEmployee\\getEmployee.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\getEmployee\\obj\\",
+        "outputPath": "D:\\DOTNET\\Labs\\getEmployee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"

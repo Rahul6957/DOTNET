@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET\\COLLECTIONDEMOAPP\\COLLECTIONDEMOAPP.csproj": {}
+    "D:\\DOTNET\\Labs\\COLLECTIONDEMOAPP\\COLLECTIONDEMOAPP.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET\\COLLECTIONDEMOAPP\\COLLECTIONDEMOAPP.csproj": {
+    "D:\\DOTNET\\Labs\\COLLECTIONDEMOAPP\\COLLECTIONDEMOAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\COLLECTIONDEMOAPP\\COLLECTIONDEMOAPP.csproj",
+        "projectUniqueName": "D:\\DOTNET\\Labs\\COLLECTIONDEMOAPP\\COLLECTIONDEMOAPP.csproj",
         "projectName": "COLLECTIONDEMOAPP",
-        "projectPath": "D:\\DOTNET\\COLLECTIONDEMOAPP\\COLLECTIONDEMOAPP.csproj",
+        "projectPath": "D:\\DOTNET\\Labs\\COLLECTIONDEMOAPP\\COLLECTIONDEMOAPP.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\COLLECTIONDEMOAPP\\obj\\",
+        "outputPath": "D:\\DOTNET\\Labs\\COLLECTIONDEMOAPP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"

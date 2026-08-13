@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET\\WebSolution\\MinimalApi\\MinimalApi.csproj": {}
+    "D:\\DOTNET\\Labs\\WebSolution\\MinimalApi\\MinimalApi.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET\\WebSolution\\MinimalApi\\MinimalApi.csproj": {
+    "D:\\DOTNET\\Labs\\WebSolution\\MinimalApi\\MinimalApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\WebSolution\\MinimalApi\\MinimalApi.csproj",
+        "projectUniqueName": "D:\\DOTNET\\Labs\\WebSolution\\MinimalApi\\MinimalApi.csproj",
         "projectName": "MinimalApi",
-        "projectPath": "D:\\DOTNET\\WebSolution\\MinimalApi\\MinimalApi.csproj",
+        "projectPath": "D:\\DOTNET\\Labs\\WebSolution\\MinimalApi\\MinimalApi.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\WebSolution\\MinimalApi\\obj\\",
+        "outputPath": "D:\\DOTNET\\Labs\\WebSolution\\MinimalApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"

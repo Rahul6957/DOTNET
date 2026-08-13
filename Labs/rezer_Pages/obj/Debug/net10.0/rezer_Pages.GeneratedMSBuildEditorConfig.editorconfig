@@ -11,45 +11,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = rezer_Pages
 build_property.RootNamespace = rezer_Pages
-build_property.ProjectDir = D:\DOTNET\rezer_Pages\
+build_property.ProjectDir = D:\DOTNET\Labs\rezer_Pages\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\DOTNET\rezer_Pages
+build_property.MSBuildProjectDirectory = D:\DOTNET\Labs\rezer_Pages
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/DOTNET/rezer_Pages/Views/Home/demo.cshtml]
+[D:/DOTNET/Labs/rezer_Pages/Views/Home/demo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkZW1vLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DOTNET/rezer_Pages/Views/Home/Index.cshtml]
+[D:/DOTNET/Labs/rezer_Pages/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DOTNET/rezer_Pages/Views/Home/Privacy.cshtml]
+[D:/DOTNET/Labs/rezer_Pages/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DOTNET/rezer_Pages/Views/Shared/Error.cshtml]
+[D:/DOTNET/Labs/rezer_Pages/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DOTNET/rezer_Pages/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/DOTNET/Labs/rezer_Pages/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DOTNET/rezer_Pages/Views/_ViewImports.cshtml]
+[D:/DOTNET/Labs/rezer_Pages/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DOTNET/rezer_Pages/Views/_ViewStart.cshtml]
+[D:/DOTNET/Labs/rezer_Pages/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DOTNET/rezer_Pages/Views/Shared/_Layout.cshtml]
+[D:/DOTNET/Labs/rezer_Pages/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jegf4bc40h

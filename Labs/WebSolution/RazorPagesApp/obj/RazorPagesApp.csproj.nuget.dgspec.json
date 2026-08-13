@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET\\WebSolution\\RazorPagesApp\\RazorPagesApp.csproj": {}
+    "D:\\DOTNET\\Labs\\WebSolution\\RazorPagesApp\\RazorPagesApp.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET\\WebSolution\\RazorPagesApp\\RazorPagesApp.csproj": {
+    "D:\\DOTNET\\Labs\\WebSolution\\RazorPagesApp\\RazorPagesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\WebSolution\\RazorPagesApp\\RazorPagesApp.csproj",
+        "projectUniqueName": "D:\\DOTNET\\Labs\\WebSolution\\RazorPagesApp\\RazorPagesApp.csproj",
         "projectName": "RazorPagesApp",
-        "projectPath": "D:\\DOTNET\\WebSolution\\RazorPagesApp\\RazorPagesApp.csproj",
+        "projectPath": "D:\\DOTNET\\Labs\\WebSolution\\RazorPagesApp\\RazorPagesApp.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\WebSolution\\RazorPagesApp\\obj\\",
+        "outputPath": "D:\\DOTNET\\Labs\\WebSolution\\RazorPagesApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"

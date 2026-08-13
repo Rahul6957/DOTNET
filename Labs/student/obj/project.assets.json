@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DOTNET\\student\\student.csproj",
+      "projectUniqueName": "D:\\DOTNET\\Labs\\student\\student.csproj",
       "projectName": "student",
-      "projectPath": "D:\\DOTNET\\student\\student.csproj",
+      "projectPath": "D:\\DOTNET\\Labs\\student\\student.csproj",
       "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-      "outputPath": "D:\\DOTNET\\student\\obj\\",
+      "outputPath": "D:\\DOTNET\\Labs\\student\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"

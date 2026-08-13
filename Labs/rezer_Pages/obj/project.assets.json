@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DOTNET\\rezer_Pages\\rezer_Pages.csproj",
+      "projectUniqueName": "D:\\DOTNET\\Labs\\rezer_Pages\\rezer_Pages.csproj",
       "projectName": "rezer_Pages",
-      "projectPath": "D:\\DOTNET\\rezer_Pages\\rezer_Pages.csproj",
+      "projectPath": "D:\\DOTNET\\Labs\\rezer_Pages\\rezer_Pages.csproj",
       "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-      "outputPath": "D:\\DOTNET\\rezer_Pages\\obj\\",
+      "outputPath": "D:\\DOTNET\\Labs\\rezer_Pages\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"
