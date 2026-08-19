@@ -1,19 +1,18 @@
 namespace DEligates;
 
-class Delegate
+public class Del
 {
-    //one delegate
-   delegate void  SMSDelegate();
+    // Delegate
+    public delegate void SMSDelegate();
 
-   // five different methods
-   static void SendSms()
+    // Methods
+    public static void SendSms()
     {
         Console.WriteLine("sms send");
-
     }
-static void sendOTP()
+
+    public static void SendOTP()
     {
-        Console.
+        Console.WriteLine("send OTP");
     }
-
 }

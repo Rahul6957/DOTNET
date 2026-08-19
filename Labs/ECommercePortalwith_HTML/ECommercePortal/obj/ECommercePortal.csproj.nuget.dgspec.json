@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ECommercePortalwith_HTML\\ECommercePortal\\ECommercePortal.csproj": {}
+    "D:\\DOTNET\\Labs\\ECommercePortalwith_HTML\\ECommercePortal\\ECommercePortal.csproj": {}
   },
   "projects": {
-    "D:\\ECommercePortalwith_HTML\\ECommercePortal\\ECommercePortal.csproj": {
+    "D:\\DOTNET\\Labs\\ECommercePortalwith_HTML\\ECommercePortal\\ECommercePortal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ECommercePortalwith_HTML\\ECommercePortal\\ECommercePortal.csproj",
+        "projectUniqueName": "D:\\DOTNET\\Labs\\ECommercePortalwith_HTML\\ECommercePortal\\ECommercePortal.csproj",
         "projectName": "ECommercePortal",
-        "projectPath": "D:\\ECommercePortalwith_HTML\\ECommercePortal\\ECommercePortal.csproj",
+        "projectPath": "D:\\DOTNET\\Labs\\ECommercePortalwith_HTML\\ECommercePortal\\ECommercePortal.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "D:\\ECommercePortalwith_HTML\\ECommercePortal\\obj\\",
+        "outputPath": "D:\\DOTNET\\Labs\\ECommercePortalwith_HTML\\ECommercePortal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config"

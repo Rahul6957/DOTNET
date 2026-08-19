@@ -1,0 +1,15 @@
+D:\DOTNET\Labs\Delegates\bin\Debug\net10.0\Delegates.exe
+D:\DOTNET\Labs\Delegates\bin\Debug\net10.0\Delegates.deps.json
+D:\DOTNET\Labs\Delegates\bin\Debug\net10.0\Delegates.runtimeconfig.json
+D:\DOTNET\Labs\Delegates\bin\Debug\net10.0\Delegates.dll
+D:\DOTNET\Labs\Delegates\bin\Debug\net10.0\Delegates.pdb
+D:\DOTNET\Labs\Delegates\obj\Debug\net10.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\Labs\Delegates\obj\Debug\net10.0\Delegates.AssemblyInfoInputs.cache
+D:\DOTNET\Labs\Delegates\obj\Debug\net10.0\Delegates.AssemblyInfo.cs
+D:\DOTNET\Labs\Delegates\obj\Debug\net10.0\Delegates.csproj.CoreCompileInputs.cache
+D:\DOTNET\Labs\Delegates\obj\Debug\net10.0\Delegates.sourcelink.json
+D:\DOTNET\Labs\Delegates\obj\Debug\net10.0\Delegates.dll
+D:\DOTNET\Labs\Delegates\obj\Debug\net10.0\refint\Delegates.dll
+D:\DOTNET\Labs\Delegates\obj\Debug\net10.0\Delegates.pdb
+D:\DOTNET\Labs\Delegates\obj\Debug\net10.0\Delegates.genruntimeconfig.cache
+D:\DOTNET\Labs\Delegates\obj\Debug\net10.0\ref\Delegates.dll
